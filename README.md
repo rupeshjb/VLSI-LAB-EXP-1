@@ -21,9 +21,8 @@
 **LOGIC GATES:**
 
 **LOGIC DIAGRAM:**
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-1/assets/119603360/871793d5-98d0-4d13-92df-b33b9ae0d7a4)
 
-
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 **VERILOG CODE:**
 
@@ -43,7 +42,7 @@ endmodule
 
 **OUTPUT:**
 
-![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/74a4a0c5-38b5-4f75-957a-a34a3a689878)
+![Screenshot (24)](https://github.com/rupeshjb/VLSI-LAB-EXP-1/assets/119603360/239bd0d8-4b57-464e-b2c1-949686a27b3f)
 
 
 **HALF ADDER:**
@@ -65,7 +64,7 @@ endmodule
 
 **OUTPUT:**
 
-![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/554d8528-bbe7-44a3-bf01-d2c3004b7b49)
+![Screenshot (26)](https://github.com/rupeshjb/VLSI-LAB-EXP-1/assets/119603360/270aeda6-a449-4822-acb4-3f8e520cead4)
 
 **FULL ADDER:**
 
@@ -90,7 +89,8 @@ endmodule
 
 **OUTPUT:**
 
-![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/9ab8bdb4-cfd8-4f75-9390-358c66a577f2)
+![Screenshot (27)](https://github.com/rupeshjb/VLSI-LAB-EXP-1/assets/119603360/c75903e2-301d-4419-9f69-08f5899f742c)
+
 
 **HALF SUBTRACTOR:**
 
@@ -111,7 +111,7 @@ endmodule
 
 **OUTPUT:**
 
-![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/a93dd2d0-542a-432c-8908-67ceb6d8cbcf)
+![half subtractor](https://github.com/rupeshjb/VLSI-LAB-EXP-1/assets/119603360/b0821960-8c41-4798-98ce-971ba8a5d332)
 
 
 **FULL SUBTRACTOR:**
@@ -138,7 +138,7 @@ endmodule
 ```
 
 **OUTPUT:**
-![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/b409e79f-4e43-48d3-8ce9-d6832a1c77da)
+![full subtractor](https://github.com/rupeshjb/VLSI-LAB-EXP-1/assets/119603360/ca0f51d1-01f8-46bc-aa1d-6f824393a23f)
 
 **8 BIT RIPPLE CARRY ADDER:**
 
